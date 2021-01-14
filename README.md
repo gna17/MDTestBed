@@ -105,3 +105,32 @@ viverra nec, fringilla in, laoreet vitae, risus.
 > Markdown使用電郵用字元「>」來引用。
 
 行間<abbr title="Hypertext Markup Language">HTML</abbr>亦受支援。
+
+## 超链接引用方式  
+行内式和参考式都行。  
+链接文字用 [方括号] 来标记。  
+要建立一个行内式的链接，只要在方块括号后面紧接着圆括号并插入网址链接即可  
+如果你还想要加上链接的 title 文字，只要在网址后面，用双引号把 title 文字包起来即可  
+例如：  
+
+    This is [an example](http://example.com/ "Title") inline link.
+    [This link](http://example.net/) has no title attribute.
+如果你是要链接到同样主机的资源，你可以使用相对路径：
+
+    See my [About](/about/) page for details.
+参考式的链接是在链接文字的括号后面再接上另一个方括号，而在第二个方括号里面要填入用以辨识链接的标记：
+
+    This is [an example][id] reference-style link.
+你也可以选择性地在两个方括号中间加上一个空格：
+
+    This is [an example] [id] reference-style link.
+接着，在文件的任意处，你可以把这个标记的链接内容定义出来：
+
+    [id]: http://example.com/  "Optional Title Here"
+
+## 强调  
+to be added later...
+## 代码  
+to be added later...
+## 图片
+to be added later...
