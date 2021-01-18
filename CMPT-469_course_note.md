@@ -1,13 +1,13 @@
-#CMPT 469 Notes
+# CMPT 469 Notes
 
-##Sketching
+## Sketching
 
-###Benefits
+### Benefits
 
 high-level concepts
 easy to generate
 easy to change
 
-###drawbacks
+### drawbacks
 
 hard to envision dynamics
