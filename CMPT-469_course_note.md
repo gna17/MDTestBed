@@ -4,10 +4,10 @@
 
 ### Benefits
 
-high-level concepts
-easy to generate
-easy to change
+high-level concepts  
+easy to generate  
+easy to change  
 
 ### drawbacks
 
-hard to envision dynamics
+hard to envision dynamics  
