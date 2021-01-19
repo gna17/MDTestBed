@@ -1,4 +1,4 @@
-# CMPT 469 Notes
+#4Notes
 
 ## 1. Course Overview
 ~~~
@@ -18,8 +18,7 @@ March 25: Quiz 2: March 25 through Canvas (5%) 10%
 Final Exam (open book) 20% TBD
 ~~~
 ~~~
-Instructor:  
-Dr. Parmit Chilana Office Hours: Tuesday, 1:00-2:00 pm, via Zoom (https://sfu.zoom.us/j/5705570007 ) E-mail: pchilana@cs.sfu.ca  
+Instructor Office Hours: Tuesday, 1:00-2:00 pm, via Zoom (https://sfu.zoom.us/j/5705570007 ) E-mail: pchilana@cs.sfu.ca  
 TAs:  
 Narges Ashtari Office Hours: Wednesday, 3:00-4:00 pm via Zoom (https://sfu.zoom.us/j/8324418215) Email: nashtari@sfu.ca  
 Laton Vermette Office Hours: Thursday, 4:30-5:30 pm via Zoom (https://sfu.zoom.us/j/5383740443) Email: lvermett@sfu.ca  
